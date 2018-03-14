@@ -1,4 +1,4 @@
-package kale;
+package kale
 
 
 import (
